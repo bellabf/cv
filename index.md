@@ -76,10 +76,10 @@ I worked as an account during my last year at the academic center at UFMS. We al
 
 # Languages
 
-Portuguese:  Native.
-English: C1 (114/120 in TOEFL).
-French: B2 (DELF B2).
-Spanish: B2.
+- Portuguese:  Native.
+- English: C1 (114/120 in TOEFL).
+- French: B2 (DELF B2).
+- Spanish: B2.
 
 
 # References
