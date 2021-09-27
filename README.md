@@ -5,7 +5,7 @@
 
 # About me
 
-I fell in love with data science and statistics while studying for my undergraduate degree in Biological Science. I have, since then, completely turned to data analysis. I believe in harvesting the power of machine learning to solve problems (and luckily, biology is full of them!). **I am interested applying ML in personalized healthcare, oncology, imaging, biomarkers, and algorithm development** . I am currently pursuing a master’s degree in bioinformatics (focused on computational and mathematical biology), and I am actively looking for an M2 internship. 
+I fell in love with data science and statistics while studying for my undergraduate degree in Biological Science. I have, since then, completely turned to data analysis. I believe in harvesting the power of machine learning to solve problems (and luckily, biology is full of them!). **I am interested in algorithm development and applying ML in personalized healthcare, oncology, imaging, and biomarkers** . I am currently pursuing a master’s degree in bioinformatics (focused on computational and mathematical biology), and I am actively looking for an M2 internship. 
 
 
 # Technical Skills
