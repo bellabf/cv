@@ -54,7 +54,7 @@ General biological sciences degree with classes in ecology, evolution, molecular
 #### 2019, UFMS, Brazil - Workshop on Data Manipulation in R (12h)
 Topics: introduction to R, data structures, introduction to tidyverse, data manipulation in dplyr, data visualisation using ggplot2.
 
-##### 2019, UFMS, Brazil - Data Science Tutor (2 semesters in total)
+#### 2019, UFMS, Brazil - Data Science Tutor (2 semesters in total)
 
 #### 2018-2019, UFMS, Brazil - Biochemistry Tutor  (3 semesters in total)
 
