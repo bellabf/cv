@@ -25,7 +25,7 @@ I fell in love with data science and statistics while studying for my undergradu
 ### 2020-2022 : Bac+5. Master Bio-informatique parcours Computational and Mathematical Biology. Université d’Aix-Marseille, Marseille, France.
 Interdisciplinary degree with courses in Computer Science, Mathematics and Biology. Topics included linear algebra, discrete and continuous dynamical systems, graph theory, network analysis, statistical analysis of big data, advanced statistics, and analysis of OMIC data.
 
-### 2016-2019 : BAC+4 ou 5. Sciences Biologiques. Universidade Federal de Mato Grosso do Sul, Brazil.
+### 2016-2019 : BAC+4 ou 5. Biological Science. Universidade Federal de Mato Grosso do Sul, Brazil.
 General biological sciences degree with classes in ecology, evolution, molecular biology, chemistry and zoology, and botany. I also took over 400 hours in supplemental classes in statistics and computer science (major and minor system does not apply).
 
 # Experience
