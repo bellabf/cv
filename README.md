@@ -69,8 +69,7 @@ I worked as an account during my last year at the academic center at UFMS. We al
 #### 2017- AIESEC no Brasil - Incoming Global Volunteer (6 months)
 
 
-# Awards and Grants
-
+# Awards 
 2018 - Prêmio Destaque PIBIC/PIBITI (Undergraduate research outstanding award),  Integra, UFMS, for the investigation of the effects of pH and redox changes on microperoxidase-8 and Cytochrome using molecular dynamics. This work was suppervised by Dr. Marcos Serrou do Amaral.
 
 
