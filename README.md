@@ -43,12 +43,15 @@ General biological sciences degree with classes in ecology, evolution, molecular
   - Protein-protein interaction network analysis using Cytoscape
 
 
-2016-2018, Campo Grande, Brazil - Undergraduate Researcher at **INFI- UFMS** (2 years):
+2016-2018, Campo Grande, Brazil - **Undergraduate Researcher** at **INFI- UFMS** (2 years):
  - Bash scripting
  - Molecular Dynamics Simulation
  - Protein alignment 
 
-# Teaching Experiences
+# Teaching, Instructor or Tutoring Experiences
+
+2021 - Present, **Writer** in [SOMA](https://www.somaquadrados.com/)
+
 
 2019, UFMS, Brazil - **Workshop on Data Manipulation in R** (12h)
 Topics: introduction to R, data structures, introduction to tidyverse, data manipulation in dplyr, data visualisation using ggplot2.
@@ -63,7 +66,7 @@ Topics: introduction to R, data structures, introduction to tidyverse, data mani
 2019 - Centro Acadêmico de Ciências Biológicas, UFMS, Brazil - Elected Member (11 months)
 I worked as an account during my last year at the academic center at UFMS. We also organized talks, volunteer opportunities, and student integration projects.
 
-2018 -  CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months)
+2018 - CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months)
 
 2017- AIESEC no Brasil - Incoming Global Volunteer (6 months)
 
