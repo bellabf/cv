@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bellabf/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Isabella Bicalho Frazeto
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Data Scientist. Data Analyst. Bioinformatician.
 
-### Markdown
+# About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I fell in love with data science and statistics while studying for my undergraduate degree in Biological Science. I have, since then, turned into a data aficionado. I am currently pursuing a master’s degree in bioinformatics (with a special focus on computational and mathematical biology). I love to code and all things machine learn. I am passionate about how we can deploy machine learning power to improve our lives, especially in personalized healthcare.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Technical Skills
 
-- Bulleted
-- List
+-Programming (R, python, java)
+-Machine learning
+-Rmarkdown and jupyter notebooks
+-Tidy tidyverse (dplyr, ggplot2, tidyr, tidymodels)
+-Version control (git, github, gitlab)
+-Storytelling and data Visualisation
+-SQL
+-Bash, unix, and familiary with command line
+-Galaxy  
 
-1. Numbered
-2. List
+# Education
 
-**Bold** and _Italic_ and `Code` text
+### 2020-2022 : Bac+5. Master Bio-informatique parcours Computational and Mathematical Biology. Université d’Aix-Marseille.
+Interdisciplinary degree with courses in Computer Science, Mathematics and Biology. Topics included linear algebra, discrete and continuous dynamical systems, graph theory, network analysis, statistical analysis of big data, advanced statistics, and analysis of OMIC data.
 
-[Link](url) and ![Image](src)
-```
+### 2016-2019 : BAC+4 ou 5. Sciences Biologiques. Universidade Federal de Mato Grosso do Sul, Brésil.
+General biological sciences degree with classes in ecology, evolution, molecular biology, chemistry and zoology, and botany. I also took over 400 hours in supplemental classes in statistics and computer science (major and minor system does not apply).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Experience
 
-### Jekyll Themes
+2021, Marseille, France - Internship as **Data scientist** at **INRIA** (9 weeks):
+ - Data analysis
+ - Machine learning development in R using tidymodels
+ - Prediction of immunotherapy response using clinical data
+ - API development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bellabf/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+2019, Campo Grande, Brazil - **Bioinformatician** at  **EMBRAPA** (5 months):
+  - RNA-seq, SNPs analysis in R and Galaxy
+  - Data visualisation
+  - Protein-protein interaction network analysis using Cytoscape
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+2016-2018, Campo Grande, Brazil - Undergraduate Researcher at **INFI- UFMS** :
+    - Bash scripting
+    - Molecular Dynamics Simulation
+    - Protein alignment
+
+# Teaching Experiences
+
+
+#### 2019, UFMS, Brazil - Workshop on Data Manipulation in R (12h)
+Topics: introduction to R, data structures, introduction to tidyverse, data manipulation in dplyr, data visualisation using ggplot2.
+
+##### 2019, UFMS, Brazil - Data Science Tutor (2 semesters in total)
+
+#### 2018-2019, UFMS, Brazil - Biochemistry Tutor  (3 semesters in total)
+
+
+# Volunter work
+
+#### 2019 - Centro Acadêmico de Ciências Biológicas, UFMS, Brazil - Elected Member (11 months)
+I worked as an account during my last year at the academic center at UFMS. We also organized talks, volunteer opportunities, and student integration projects.
+
+#### 2018 -  CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months)
+
+#### 2017- AIESEC no Brasil - Incoming Global Volunteer (6 months)
+
+
+# Awards and Grants
+
+2018 - Prêmio Destaque PIBIC/PIBITI (Undergraduate research outstanding award),  Integra, UFMS, for the investigation of the effects of pH and redox changes on microperoxidase-8 and Cytochrome using molecular dynamics. This work was suppervised by Dr. Marcos Serrou do Amaral.
+
+
+# Languages
+
+Portuguese:  Native.
+English : C1 (114/120 in TOEFL).
+French : Niveau B2 (DELF B2).
+Spanish : Niveau B2.
+
+
+# References
+
+References are available upon request
+
+# Contact
+
+Email: bicalhoisabella@gmail.com
+
+Twitter: @bisnotforbella
+
+LinkedIn: www.linkedin.com/in/isabella-frazeto
