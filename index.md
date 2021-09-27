@@ -10,15 +10,15 @@ I fell in love with data science and statistics while studying for my undergradu
 
 # Technical Skills
 
--Programming (R, python, java)
--Machine learning
--Rmarkdown and jupyter notebooks
--Tidy tidyverse (dplyr, ggplot2, tidyr, tidymodels)
--Version control (git, github, gitlab)
--Storytelling and data Visualisation
--SQL
--Bash, unix, and familiary with command line
--Galaxy  
+  - Programming (R, python, java)
+  - Machine learning
+  - Rmarkdown and jupyter notebooks
+  - Tidy tidyverse (dplyr, ggplot2, tidyr, tidymodels)
+  - Version control (git, github, gitlab)
+  - Storytelling and data Visualisation
+  - SQL
+  - Bash, unix, and familiary with command line
+  - Galaxy  
 
 # Education
 
@@ -43,10 +43,10 @@ General biological sciences degree with classes in ecology, evolution, molecular
   - Protein-protein interaction network analysis using Cytoscape
 
 
-2016-2018, Campo Grande, Brazil - Undergraduate Researcher at **INFI- UFMS** :
-    - Bash scripting
-    - Molecular Dynamics Simulation
-    - Protein alignment
+2016-2018, Campo Grande, Brazil - Undergraduate Researcher at **INFI- UFMS** (2 years):
+ - Bash scripting
+ - Molecular Dynamics Simulation
+ - Protein alignment 
 
 # Teaching Experiences
 
@@ -77,9 +77,9 @@ I worked as an account during my last year at the academic center at UFMS. We al
 # Languages
 
 Portuguese:  Native.
-English : C1 (114/120 in TOEFL).
-French : Niveau B2 (DELF B2).
-Spanish : Niveau B2.
+English: C1 (114/120 in TOEFL).
+French: B2 (DELF B2).
+Spanish: B2.
 
 
 # References
