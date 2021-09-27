@@ -1,5 +1,5 @@
 
-#Isabella Bicalho Frazeto
+# Isabella Bicalho Frazeto
 
 #### Data Scientist. Data Analyst. Bioinformatician.
 
@@ -89,5 +89,7 @@ References are available upon request
 # Contact
 
 Email: bicalhoisabella@gmail.com
+
 Twitter: @bisnotforbella
+
 LinkedIn: www.linkedin.com/in/isabella-frazeto
