@@ -5,7 +5,7 @@
 
 # About me
 
-I fell in love with data science and statistics while studying for my undergraduate degree in Biological Science. I have, since then, completely turned to data analysis. I believe in harvesting the power of machine learning to solve problems (and luckily, biology is full of them!). **I am interested in algorithm development and applying ML in personalized healthcare, oncology, imaging, and biomarkers** . I am currently pursuing a master’s degree in bioinformatics (focused on computational and mathematical biology), and I am actively looking for an M2 internship. 
+I fell in love with data science and statistics while studying for my undergraduate degree in Biological Science. I have, since then, completely turned to data analysis. I believe in harvesting the power of machine learning to solve problems (and luckily, biology is full of them!). **I am interested in algorithm development and applying ML in personalized healthcare, oncology, imaging, and biomarkers**. I am currently pursuing a master’s degree in bioinformatics (focused on computational and mathematical biology), and I am actively looking for an M2 internship. 
 
 
 # Technical Skills
@@ -54,6 +54,7 @@ General biological sciences degree with classes in ecology, evolution, molecular
 
 
 2019, UFMS, Brazil - **Workshop on Data Manipulation in R** (12h)
+
   Topics: introduction to R, data structures, introduction to tidyverse, data manipulation in dplyr, data visualisation using ggplot2.
 
 2019, UFMS, Brazil - **Data Science Tutor** (2 semesters in total)
@@ -64,6 +65,7 @@ General biological sciences degree with classes in ecology, evolution, molecular
 # Volunter work
 
 2019 - Centro Acadêmico de Ciências Biológicas, UFMS, Brazil - Elected Member (11 months)
+
   I worked as an account during my last year at the academic center at UFMS. We also organized talks, volunteer opportunities, and student integration projects.
 
 2018 - CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months)
