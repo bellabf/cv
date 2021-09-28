@@ -26,7 +26,7 @@ I fell in love with data science and statistics while studying for my undergradu
 Interdisciplinary degree with courses in Computer Science, Mathematics and Biology. Topics included linear algebra, discrete and continuous dynamical systems, graph theory, network analysis, statistical analysis of big data, advanced statistics, and analysis of OMIC data.
 
 ### 2016-2019 : BAC+4 ou 5. Biological Science. Universidade Federal de Mato Grosso do Sul, Brazil.
-General biological sciences degree with classes in ecology, evolution, molecular biology, chemistry and zoology, and botany. I also took over 400 hours in supplemental classes in statistics and computer science (major and minor system does not apply).
+General biological sciences degree with classes in ecology, evolution, molecular biology, chemistry and zoology, and botany. I also took over 400 hours in supplemental classes in statistics and computer science (major and minor system does not apply). I wrote an undergraduate thesis on microRNA on carcinomas.
 
 # Experience
 
@@ -54,8 +54,7 @@ General biological sciences degree with classes in ecology, evolution, molecular
 
 
 2019, UFMS, Brazil - **Workshop on Data Manipulation in R** (12h)
-
-Topics: introduction to R, data structures, introduction to tidyverse, data manipulation in dplyr, data visualisation using ggplot2.
+  Topics: introduction to R, data structures, introduction to tidyverse, data manipulation in dplyr, data visualisation using ggplot2.
 
 2019, UFMS, Brazil - **Data Science Tutor** (2 semesters in total)
 
@@ -65,7 +64,7 @@ Topics: introduction to R, data structures, introduction to tidyverse, data mani
 # Volunter work
 
 2019 - Centro Acadêmico de Ciências Biológicas, UFMS, Brazil - Elected Member (11 months)
-I worked as an account during my last year at the academic center at UFMS. We also organized talks, volunteer opportunities, and student integration projects.
+  I worked as an account during my last year at the academic center at UFMS. We also organized talks, volunteer opportunities, and student integration projects.
 
 2018 - CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months)
 
