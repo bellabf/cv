@@ -4,7 +4,7 @@
 
 
 ## Research Interest
-I am a biologist who fell in love with data science and statistics. As follows, I believe in applying  well-defined mathematical and computational concepts to elucidate some biological question. My main research interests are in algorithm and machine learning development, interpretable artificial intelligence, and computer vision. Moreover, I am also dedicated to communicate results more clearly and concisely through using data visualization, open science and reproducible reporting, and to .
+I am a biologist who fell in love with data science and statistics. As follows, I believe in applying  well-defined mathematical and computational concepts to elucidate some biological question. My main research interests are in algorithm and machine learning development, interpretable artificial intelligence, and computer vision. Moreover, I am also dedicated to communicate results more clearly and concisely through using data visualization, open science and reproducible reporting.
 
 
 ## Education
