@@ -29,7 +29,7 @@ General biological sciences degree with classes in ecology, evolution, molecular
   - **Keywords**: RNA-seq; SNPs analysis; R; Galaxy; Protein-protein interaction network; Cytoscape.
 
 #### 2016-2018. Campo Grande, Brazil - **Undergraduate Researcher** at **INFI- UFMS** (2 years).
- - **Description**: The goal of this project was to describe the conformational changes of both Interleucine-8 and Cythochrome C using molecular dynamics simulations using changes in pH and redox potential in using the AMBER software package.
+ - **Description**: The goal of this project was to describe the conformational changes of both Interleucine-8 and Cythochrome C by performing molecular dynamics simulations with pH and redox potential changes using the AMBER software package.
  - **Keywords**: Bash scripting; Molecular Dynamics Simulations; Protein alignment
 
 # Publications
