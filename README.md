@@ -5,12 +5,18 @@
 
 
 # About me 
-I am a biologist who fell in love with data science and statistics.My main interests are in algorithm and machine learning development, interpretable artificial intelligence, and computer vision. I am a big fan of communicating results more clearly and concisely through using data visualization, open science and reproducible reporting.
+
+As a biologist turned data enthusiast, I am passionate about harnessing the power of statistics and data science to uncover insights and drive impactful change. My interests lie in developing cutting-edge algorithms and machine learning models, particularly in the areas of interpretable artificial intelligence and computer vision.
+
+Recently, I started a Substack newsletter and blog to share my views on data science, machine learning, and explore topics related to my advanced degree studies. Through my writing, I aim to inspire others to make data-driven decisions and share my knowledge and passion for this field.
+
+I strongly believe in the importance of clear and concise communication and love using data visualization, open science, and reproducible reporting to share my findings with others. Let's connect and chat about data science and machine learning! Feel free to reach out to me on Twitter, LinkedIn, or through my Substack newsletter.
 
 # Education
 ### 2020-2022: Master's Degree in Bioinformatics - Computational and Mathematical Biology, earned from the University of Aix-Marseille, Sciences Luminy, France.
 
 This interdisciplinary program combined courses in computer science, mathematics, and biology, with a focus on analyzing data that are complex.
+
 I gained a good foundation in linear algebra, discrete and continuous dynamical systems, graph theory, and network analysis, as well as expertise in statistical analysis of big data, advanced statistics, and analysis of OMIC data
 
 ### 2016-2019 : BAC+4 ou 5. Biological Sciences. Universidade Federal de Mato Grosso do Sul, Brazil.
@@ -21,23 +27,52 @@ Additionally, I completed over 400 hours of supplemental coursework in statistic
 
 For my undergraduate thesis, I conducted research on microRNA expression in carcinomas, using data mining techniques to identify patterns of co-expression. This project allowed me to apply my knowledge of data analysis and computational tools to real-world questions.
 
+
+# Relevant Skills
+
+
+## Technical Skills:
+
+- Programming (R & python)
+- Machine learning (classification, regression, clustering, ensemble learning, reinforced learning)
+- Reporting: markdown and jupyter notebooks
+- Tidy tidyverse (dplyr, ggplot2, purrr, tidymodels)
+- Scikit learn, pandas, matplotlib
+- Version control (git, github, gitlab)
+- Storytelling and Data Visualization
+- SQL
+- Bash and Unix
+- Image Processing
+- Computer Vision
+- Statistical Analysis of Big Data
+- Analysis of OMIC data
+
+# Languages
+- Portuguese:  Native.
+- English: C1 (114/120 in TOEFL).
+- French: B2 (DELF B2).
+- Spanish: B2.
+- 
 # Experience
 
 #### 2022-2022. Marseille, France - Internship as **Bio-image data analyst** at Laboratoire d'Informatique & Systèmes on Guignard's lab under Léo Guignard's supervision, Université D'Aix-Marseille.
- - **Description**: This project aims to build methods to detect and segment lymphoid inducer cells, describe their cluster shapes, and quantify their morphology.
- - **Keywords**: Image Processing; Image segmentation; 3D imaging; developmental biology
+ - **Description**: In this project, I contributed to the development of techniques for 3D imaging processing to accurately segment and align whole 3D objects. The objective was to improve the efficiency of analysis by optimizing segmentation and alignment methods.
+ - **Keywords**: Image Processing; Image segmentation; Image registration; 3D imaging; Developmental biology.
 
 #### 2021. Marseille, France - Internship as **Data scientist** at **INRIA** on COMPO's team under Sebastien Benzekry's supervision (9 weeks).
-  - **Description**: Built multiple machine learning models to predict the response of immune-checkpoint inhibition in advanced non-small cell lung cancer patients from blood count and hematological markers from clinical data.
-  -  **Keywords**: Data analysis; Machine learning development; Tidymodels; Prediction of immunotherapy response; Clinical data; API development.
+  - **Description**: : In this project, I developed multiple machine learning models to predict the response of advanced non-small cell lung cancer patients to immune-checkpoint inhibition. The models were built using tidymodels and clinical data containing blood count and hematological markers. I also developed an API for the model development.
+  -  **Keywords**: Machine learning development; Tidymodels; Prediction of immunotherapy response; Clinical data; API development.
 
 #### 2019. Campo Grande, Brazil - **Bioinformatician** at  **EMBRAPA - Gado de Corte** (5 months).
-  - **Description**: Serviced based bioinformatics project to fill the demand for in-house analysis of RNA-seq, SNP analysis and down-stream analysis of protein-protein interaction networks.
+  - **Description**: : I was part of a bioinformatics project aimed at addressing the in-house demand for RNA-seq and SNP analysis. I used R and Galaxy to perform data analysis and down-stream analysis of protein-protein interaction networks. Additionally, I utilized Cytoscape to visualize and interpret the resulting protein-protein interaction network.
   - **Keywords**: RNA-seq; SNPs analysis; R; Galaxy; Protein-protein interaction network; Cytoscape.
 
 #### 2016-2018. Campo Grande, Brazil - **Undergraduate Researcher** at **INFI- UFMS** (2 years).
- - **Description**: The goal of this project was to describe the conformational changes of both Interleucine-8 and Cythochrome C by performing molecular dynamics simulations with pH and redox potential changes using the AMBER software package.
- - **Keywords**: Bash scripting; Molecular Dynamics Simulations; Protein alignment
+
+ - **Description**: I used molecular dynamics simulations with pH and redox potential changes to investigate the conformational changes of Interleucine-8 and Cytochrome C. The project was carried out using the powerful AMBER software package and involved complex Bash scripting, protein alignment, and molecular dynamics simulations.
+ - **Keywords**: Molecular Dynamics Simulations; AMBER; Protein alignment; Bash scripting.
+
+
 
 # Publications
  * Benzekry, S., Grangeon, M., Karlsen, M., Alexa, M., **Bicalho-Frazeto, I.**, Chaleat, S., Tomasini, P., Barbolosi, D., Barlesi, F.  & Greillier, L. (2021). Machine learning for prediction of immunotherapy efficacy in non-small cell lung cancer from simple clinical and biological data. Cancers, 13(24), 621.
@@ -49,18 +84,7 @@ For my undergraduate thesis, I conducted research on microRNA expression in carc
 
 
 # Awards
- * 2018 - Prêmio Destaque PIBIC/PIBITI (Undergraduate research outstanding award),  Integra, UFMS, for the investigation of the effects of pH and redox changes on microperoxidase-8 and Cytochrome using molecular dynamics. This work was suppervised by Dr. Marcos Serrou do Amaral.
-
-# Relevant Skills
-   - Programming  (R & python)
-   - Machine learning (classification, regression, clustering, ensemble learning, reinforced learning)
-   - Rmarkdown and jupyter notebooks
-   - Tidy tidyverse (dplyr, ggplot2, purrr, tidymodels)
-   - Scikit learn, pandas, matplotlib
-   - Version control (git, github, gitlab)
-   - Storytelling and Data Visualisation
-   - SQL
-   - Bash, Unix, and familiarity with command line
+ * 2018 - Undergraduate research outstanding award (Prêmio Destaque PIBIC/PIBITI ),  Integra, UFMS, for the investigation of the effects of pH and redox changes on microperoxidase-8 and Cytochrome using molecular dynamics. Work suppervised by Dr. Marcos Serrou do Amaral.
 
 # Teaching, Instructor or Tutoring Experiences
 #### 2021 - Present, **Writer** in [SOMA](https://www.somaquadrados.com/)
@@ -73,11 +97,6 @@ For my undergraduate thesis, I conducted research on microRNA expression in carc
 
 #### 2018-2019, UFMS, Brazil - **Biochemistry Tutor**  (3 semesters in total).
 
-# Languages
-- Portuguese:  Native.
-- English: C1 (114/120 in TOEFL).
-- French: B2 (DELF B2).
-- Spanish: B2.
 
 # Volunteer work
 ##### 2019 - Centro Acadêmico de Ciências Biológicas, UFMS, Brazil - Elected Member (11 months).
@@ -88,4 +107,3 @@ I worked as an account during my last year at the academic center at UFMS. We al
 ##### 2017- AIESEC no Brasil - Incoming Global Volunteer (6 months).
 
 
-This cv was revised with of ChatGPT.
