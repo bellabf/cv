@@ -8,15 +8,22 @@
 I am a biologist who fell in love with data science and statistics.My main interests are in algorithm and machine learning development, interpretable artificial intelligence, and computer vision. I am a big fan of communicating results more clearly and concisely through using data visualization, open science and reproducible reporting.
 
 # Education
-### 2020-2022 : Bac+5. Master Bio-informatique: Computational and Mathematical Biology. Université d’Aix-Marseille, Sciences Luminy, France.
-Interdisciplinary degree with courses in Computer Science, Mathematics and Biology. Topics included linear algebra, discrete and continuous dynamical systems, graph theory, network analysis, statistical analysis of big data, advanced statistics, and analysis of OMIC data.
+### 2020-2022: Master's Degree in Bioinformatics - Computational and Mathematical Biology, earned from the University of Aix-Marseille, Sciences Luminy, France.
+
+This interdisciplinary program combined courses in computer science, mathematics, and biology, with a focus on analyzing data that are complex.
+I gained a good foundation in linear algebra, discrete and continuous dynamical systems, graph theory, and network analysis, as well as expertise in statistical analysis of big data, advanced statistics, and analysis of OMIC data
 
 ### 2016-2019 : BAC+4 ou 5. Biological Sciences. Universidade Federal de Mato Grosso do Sul, Brazil.
-General biological sciences degree with classes in ecology, evolution, molecular biology, chemistry and zoology, and botany. I also took over 400 hours in supplemental classes in statistics and computer science (major and minor system does not apply). I wrote an undergraduate thesis about microRNA on carcinomas using data mining techniques to find microRNA that are often expressed together.
+
+I hold a Bachelor's degree in Biological Sciences with a broad range of coursework in different biological ares (i.e. ecology, evolution, molecular biology, biochemistry, etc).
+
+Additionally, I completed over 400 hours of supplemental coursework in statistics and computer science, allowing me to develop strong skills in data analysis and computational techniques.
+
+For my undergraduate thesis, I conducted research on microRNA expression in carcinomas, using data mining techniques to identify patterns of co-expression. This project allowed me to apply my knowledge of data analysis and computational tools to real-world questions.
 
 # Experience
 
-#### 2022-Currently. Marseille, France - Internship as **Bio-image data analyst** at Laboratoire d'Informatique & Systèmes on Guignard's lab under Léo Guignard's supervision, Université D'Aix-Marseille.
+#### 2022-2022. Marseille, France - Internship as **Bio-image data analyst** at Laboratoire d'Informatique & Systèmes on Guignard's lab under Léo Guignard's supervision, Université D'Aix-Marseille.
  - **Description**: This project aims to build methods to detect and segment lymphoid inducer cells, describe their cluster shapes, and quantify their morphology.
  - **Keywords**: Image Processing; Image segmentation; 3D imaging; developmental biology
 
@@ -79,3 +86,6 @@ I worked as an account during my last year at the academic center at UFMS. We al
 ##### 2018 - CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months).
 
 ##### 2017- AIESEC no Brasil - Incoming Global Volunteer (6 months).
+
+
+This cv was revised with of ChatGPT.
