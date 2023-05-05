@@ -32,25 +32,21 @@ For my undergraduate thesis, I conducted research on microRNA expression in carc
 ## Technical Skills:
 
 - Programming (R & python)
-- Machine learning (classification, regression, clustering, ensemble learning, reinforced learning)
+- Machine learning (Sklearn, tidymodels)
 - Reporting: markdown and jupyter notebooks
-- Tidy tidyverse (dplyr, ggplot2, purrr, tidymodels)
-- Scikit learn, pandas, matplotlib
+- Data manipulation (dplyr, purrr, pandas, SQL)
+- Data visualization (plotnine/ggplot2, plotly, matplotlib)
 - Version control (git, github, gitlab)
-- Storytelling and Data Visualization
-- SQL
+- Presentation and storytelling 
 - Bash and Unix
-- Image Processing
-- Computer Vision
-- Statistical Analysis of Big Data
-- Analysis of OMIC data
+- Image Processing and Computer Vision (skimage)
 
 # Languages
 - Portuguese:  Native.
 - English: C1 (114/120 in TOEFL).
 - French: B2 (DELF B2).
 - Spanish: B2.
-- 
+
 # Experience
 
 #### 2022-2022. Marseille, France - Internship as **Bio-image data analyst** at Laboratoire d'Informatique & Systèmes on Guignard's lab under Léo Guignard's supervision, Université D'Aix-Marseille.
