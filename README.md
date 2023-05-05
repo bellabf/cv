@@ -8,8 +8,6 @@
 
 As a biologist turned data enthusiast, I am passionate about harnessing the power of statistics and data science to uncover insights and drive impactful change. My interests lie in developing cutting-edge algorithms and machine learning models, particularly in the areas of interpretable artificial intelligence and computer vision.
 
-Recently, I started a Substack newsletter and blog to share my views on data science, machine learning, and explore topics related to my advanced degree studies. Through my writing, I aim to inspire others to make data-driven decisions and share my knowledge and passion for this field.
-
 I strongly believe in the importance of clear and concise communication and love using data visualization, open science, and reproducible reporting to share my findings with others. Let's connect and chat about data science and machine learning! Feel free to reach out to me on Twitter, LinkedIn, or through my Substack newsletter.
 
 # Education
