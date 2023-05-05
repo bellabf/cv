@@ -11,6 +11,11 @@ As a biologist turned data enthusiast, I am passionate about harnessing the powe
 I strongly believe in the importance of clear and concise communication and love using data visualization, open science, and reproducible reporting to share my findings with others. Let's connect and chat about data science and machine learning! Feel free to reach out to me on Twitter, LinkedIn, or through my Substack newsletter.
 
 # Education
+
+### 2023-now: PhD - University of Aix-Marseille, France.
+
+Joint PhD training between Centre of Immunology of Marseille (CIML) and Informatics and Systems Laboratory (LIS UMR 7020). My work is focused on developing scientific software for image analysis using a variety of technices including image preprocessing, computer vision, and machine learning tools to unravel the effects of the neurvous system in lymph node development.
+
 ### 2020-2022: Master's Degree in Bioinformatics - Computational and Mathematical Biology, earned from the University of Aix-Marseille, Sciences Luminy, France.
 
 This interdisciplinary program combined courses in computer science, mathematics, and biology, with a focus on analyzing data that are complex.
