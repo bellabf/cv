@@ -1,20 +1,16 @@
 
 <h1 align="center"> Isabella Bicalho Frazeto </h1>
-<h4 align="center">  Data Scientist. Data Analyst. Bioinformatician.
  </h4>
 
 
 # About me 
-
-As a biologist turned data enthusiast, I am passionate about harnessing the power of statistics and data science to uncover insights and drive impactful change. My interests lie in developing cutting-edge algorithms and machine learning models, particularly in the areas of interpretable artificial intelligence and computer vision.
-
-I strongly believe in the importance of clear and concise communication and love using data visualization, open science, and reproducible reporting to share my findings with others. Let's connect and chat about data science and machine learning! Feel free to reach out to me on Twitter, LinkedIn, or through my Substack newsletter.
+I have 2 years of experience working with data. I see myself more as a problem solver than anything else. Thus, I am not shy to use both artificial intelligence and more classical statistics and modeling approaches to get meaningful insights and drive impactful change. I strongly believe in the importance of telling a good history and building good communication with the stakeholders. Feel free to reach out to me. 
 
 # Education
 
 ### 2023-now: PhD - University of Aix-Marseille, France.
 
-Joint PhD training between Centre of Immunology of Marseille (CIML) and Informatics and Systems Laboratory (LIS UMR 7020). My work is focused on developing scientific software for image analysis using a variety of technices including image preprocessing, computer vision, and machine learning tools to unravel the effects of the neurvous system in lymph node development.
+Joint PhD training between Centre of Immunology of Marseille (CIML) and Informatics and Systems Laboratory (LIS UMR 7020). My work is focused on developing scientific software for image analysis using a variety of techniques including image preprocessing, computer vision, and machine learning tools to unravel the effects of the nervous system in lymph node development.
 
 ### 2020-2022: Master's Degree in Bioinformatics - Computational and Mathematical Biology, earned from the University of Aix-Marseille, Sciences Luminy, France.
 
