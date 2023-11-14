@@ -1,17 +1,15 @@
-
 <h1 align="center"> Isabella Bicalho Frazeto </h1>
- </h4>
 
 
 # About me 
 
-Hi, I am a data enthusiast with 2 years of experience. I'm a problem solver at heart, and I'm not afraid to dive into the worlds of both artificial intelligence and classical statistics. My mission is to discover the information that lies hidden within data and to turn that into biteable stories to drive change.
+Hi! I specialize in creating customized solutions for data-related challenges. At my core, I'm a problem solver driven to extract valuable insights from data using the right mix of statistical, machine learning, and modeling techniques. My secondary mission is to transform this information into actionable insights through compelling storytelling.
 
 # Experience
 
 #### Researcher in Computer Vision | Aix-Marseille University
 - Led research projects in the field of Computer Vision, focusing on the application of machine learning techniques to analyze complex datasets.
-- Developed and fine-tuned custom algorithms for 3D image object detection.
+- Developed and fine-tuned custom algorithms for unsupervised 3D image object detection.
 - Collaborated closely with cross-functional teams, communicating technical concepts to non-technical stakeholders
 
 #### Image Data Analyst | CENTURI - Turing Centre for Living Systems · Internship
@@ -28,10 +26,9 @@ Hi, I am a data enthusiast with 2 years of experience. I'm a problem solver at h
 
 
 #### Bioinformatician | Embrapa · Internship
-- Conducted in-house RNA-seq and SNP analyses, utilizing R and Galaxy (Bioinformatics Tools) to derive actionable insights from data.
-- Visualized and interpreted interaction networks to enhance the team’s understanding of molecular mechanisms and improve the presentation of findings.
-- Data Manipulation and Analysis (R, Pandas) for efficient data processing and interpretation
-
+- Data Wrangling and Analysis (R, Pandas) for efficient data processing and interpretation
+- Conducted statistical analysis to data-mine and leverage in-house database (RNA-seq and SNP analyses) using R and Galaxy (Bioinformatics Tools).
+- Visualized and interpreted interaction networks to enhance understanding of the data and improve the presentation of findings.
   
 # Education
 
@@ -50,12 +47,12 @@ Hi, I am a data enthusiast with 2 years of experience. I'm a problem solver at h
 
 # Skills
 - Programming Languages: Python, R, Bash
-- Machine Learning: Scikit-learn, SciPy, Scikit-image (Skimage), OpenCV, Tidymodels
+- Machine Learning: Scikit-learn, SciPy, Scikit-image (Skimage), OpenCV, Tidymodels, TensorFlow
 - Data Manipulation and Analysis: Pandas (Python), SQL, dplyr (R), purrr (R)
 - Data Visualization: Plotly, Plotnine (ggplot2 for R), Matplotlib, Seaborn
 - Version Control: Git, GitHub, GitLab
 - Reporting: Jupyter notebooks, markdown, latex, Quarto
-- Deployment: pickle, docker
+- Deployment: pickle, docker (basics)
 - Other Tools:  Unix Shell, VS Code, RStudio
 
 # Publications
@@ -67,6 +64,10 @@ Hi, I am a data enthusiast with 2 years of experience. I'm a problem solver at h
  * 2018 - "How to deal with redox potential and pH changes: insights from molecular dynamics". **Isabella Bicalho Frazeto** and Marcos Serrou do Amaral, X-Meeting 2018 - 14th International Conference of the Brazilian Association of Bioinformatics and Computational Biology (AB3C), São Pedro - Brazil.
 
 # Public Speaking
+
+#### 2023 - Understanding bias and explainability in sensitive data models (40 minutes)
+- Topics: understanding bias and explainability in sensitive data models, challenges of bias in AI, fairness and unbiased systems, sensitive attributes, proxies in machine learning, the journey of model construction, metrics role of explainability and trustworthy AI.
+  
 #### 2022 - Introduction to Dimension Reduction in R UseR!  (3h)
 - Topics: hands-on tutorial for dimensional reduction techniques (PCA, ICA, Multidimensional Scaling, t-sne, and U-MAP).
 
@@ -78,12 +79,14 @@ Hi, I am a data enthusiast with 2 years of experience. I'm a problem solver at h
 
 # Teaching or Tutoring Experiences
 
-#### 2023 - Present, Bioinformatics and Statistics tutoring at Aix-Marseille University
+#### 2023 - Present, Bioinformatics and Statistics Teaching Assistant at Aix-Marseille University
+- Teaching Assistant to Statistics and Bioinformatics for undergraduate and master-level courses.
 
-#### 2021 - Present, **Writer** in [SOMA](https://www.somaquadrados.com/)
-- SOMA is a project whose goal is to make biostatistics and programming easy for biologists. We create content in the form of tutorials, courses, and interviews in Portuguese and Spanish. Currently, our blog is one hundred percent women-headed.
+#### 2021 - Present, **Writer** in [SOMA](https://www.somaquadrados.com/) (On Pause)
+- SOMA is a project whose goal is to make biostatistics and programming easy for biologists. We create content in the form of tutorials, courses, and interviews in Portuguese and Spanish. This project is on pause as we are restructuring it
   
 #### 2019 - UFMS, Brazil - **Data Science Tutor** (2 semesters in total).
+- Teaching Assistant in hands-on Data Science in R courses
 
 #### 2018-2019 - UFMS, Brazil - **Biochemistry Tutor**  (3 semesters in total).
 
@@ -100,7 +103,7 @@ Hi, I am a data enthusiast with 2 years of experience. I'm a problem solver at h
 - Accountant: spreadsheet keeping, balancing books, reporting the financial status of the center 
 - Organized talks, volunteer opportunities, and student integration projects.
 
-#### 2018 - CASA HOGAR TEPEYAC, Leon, Mexico - Volunter (2 months).
+#### 2018 - CASA HOGAR TEPEYAC, Leon, Mexico - Volunteer (2 months).
 
 #### 2017- AIESEC no Brasil - Incoming Global Volunteer (6 months).
 
