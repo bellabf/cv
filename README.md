@@ -3,7 +3,7 @@
 
 # About me 
 
-Hi! I specialize in creating customized solutions for data-related challenges. At my core, I'm a problem solver driven to extract valuable insights from data using the right mix of statistical, machine learning, and modeling techniques. My secondary mission is to transform this information into actionable insights through compelling storytelling.
+Hi! I like data and problem-solving.
 
 # Experience
 
